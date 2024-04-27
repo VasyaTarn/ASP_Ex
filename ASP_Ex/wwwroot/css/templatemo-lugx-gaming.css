@@ -988,7 +988,7 @@ Categories Style
 }
 
 .categories .item  {
-  background-color: #0071f8;
+    background-color: #eeeeee;
   position: relative;
   border-radius: 25px;
   text-align: center;
